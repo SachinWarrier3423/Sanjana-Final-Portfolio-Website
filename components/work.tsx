@@ -137,7 +137,7 @@ const projects = [
     description:
       "Designed user interface elements for the Under 25 mobile application, focusing on user experience and visual appeal.",
     category: "under25",
-    image: "public\images\Under25app 1.png?height=600&width=800",
+    image: "\images\Under25app 1.png?height=600&width=800",
     tags: ["UI Design", "Mobile App", "User Experience"],
   },
   {
@@ -164,7 +164,7 @@ const projects = [
     description:
       "Led social media strategy and content creation as Social Media Director for Hult, increasing engagement and reach.",
     category: "hult",
-    image: "public\images\Hult 1-images-0.jpgheight=600&width=800",
+    image: "\images\Hult 1-images-0.jpgheight=600&width=800",
     tags: ["Social Media Direction", "Strategy", "Content Creation"],
   },
   {
@@ -173,7 +173,7 @@ const projects = [
     description:
       "Designed promotional materials for Hult events, creating cohesive and engaging visual content to drive attendance.",
     category: "hult",
-    image: "public\images\Hult 4.png?height=600&width=800",
+    image: "\images\Hult 4.png?height=600&width=800",
     tags: ["Event Promotion", "Graphic Design", "Marketing"],
   },
 ]
