@@ -38,7 +38,7 @@ const projects = [
     description:
       "Created engaging social media content and digital marketing materials for VYK NGO to increase awareness and engagement.",
     category: "vyk",
-    image: "images\VYK 1.png?height=600&width=800",
+    image: "/images/VYK 1.png?height=600&width=800",
     tags: ["Social Media", "Digital Marketing", "NGO"],
   },
   {
@@ -47,7 +47,7 @@ const projects = [
     description:
       "Designed campaign materials for fundraising and awareness initiatives, helping the NGO reach a wider audience.",
     category: "vyk",
-    image: "images\VYK 2.png?height=600&width=800",
+    image: "/images/VYK 2.png?height=600&width=800",
     tags: ["Campaign Design", "Graphic Design", "Canva"],
   },
   {
@@ -164,7 +164,7 @@ const projects = [
     description:
       "Led social media strategy and content creation as Social Media Director for Hult, increasing engagement and reach.",
     category: "hult",
-    image: "\images\Hult 1-images-0.jpgheight=600&width=800",
+    image: "/images/Hult 1-images-0.jpgheight=600&width=800",
     tags: ["Social Media Direction", "Strategy", "Content Creation"],
   },
   {
@@ -173,7 +173,7 @@ const projects = [
     description:
       "Designed promotional materials for Hult events, creating cohesive and engaging visual content to drive attendance.",
     category: "hult",
-    image: "\images\Hult 4.png?height=600&width=800",
+    image: "/images/Hult 4.png?height=600&width=800",
     tags: ["Event Promotion", "Graphic Design", "Marketing"],
   },
 ]
