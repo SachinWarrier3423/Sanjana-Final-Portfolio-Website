@@ -1,30 +1,106 @@
 # Sanjana Portfolio Website
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+![Portfolio Screenshot](public/preview.png)
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/sachinwarrier22-niituniversis-projects/v0-sanjana-portfolio-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/0miOin1rkw3)
+## Table of Contents
+
+- [Overview](#overview)
+- [Live Demonstration](#live-demo)
+- [Features](#features)
+- [Technological Framework](#technological-framework)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+The **Sanjana Portfolio Website** is a responsive, accessible, and contemporary portfolio designed with **Next.js**, **React**, and **Tailwind CSS**. Projects, skills, and contact details are displayed in a clean and beautiful interface appropriate for developers and designers who wish to showcase their work.
+
+## Live Demonstration
+
+See the deployed site here: [https://sanjana-final-portfolio-website.vercel.app](https://sanjana-final-portfolio-website.vercel.app).
+
+### Characteristics
+
+- **Responsive Design**: Built for every device from mobile phones to large desktops.
+- **Dark/Light Mode**: Switch between themes for better readability.
+- **Accessible**: Complies with WCAG standards for screen readers and keyboard support.
+- **Smooth Animations**: Smooth animations provide an interactive user experience.
+- **SEO Friendly**: Server-side rendering and metadata for improved search visibility.
+
+## Tech Stack
+
+- Next.js
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vercel](https://vercel.com/) for deployment
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js v14 or higher
+- npm or yarn
+
+### Installation
+
+1. **Clone the repository**
+```bash```
+git clone https://github.com/SachinWarrier3423/Sanjana-Final-Portfolio-Website.git
+cd Sanjana-Final-Portfolio-Website
+``````
+
+2. **Install dependencies**
+```bash
+```
+npm install
+# or
+Yarn Install.
+```
+
+3. **Run the development server**
+`shellexecution`
+npm run dev
+# or
+yarn start
+```
+
+4. **Open in browser**
+To view, navigate to `http://localhost:3000`.
+
+## Project Structure
+
+```
+├── app/                # Next.js App Router components and pages
+├── components/        # reusable React components
+├── hooks/              # Custom React hooks
+├── lib/                # Utility functions and data
+├── public/             # Static assets (images, icons)
+├── styles/             # Component-level and global styles
+
+├── tailwind.config.ts  # Tailwind CSS config
+
+Next.js configuration is located in the next.config.mjs file.
+
+└── tsconfig.json      # TypeScript configuration
+
+```
 
 ## Deployment
 
-Your project is live at:
+This project is hosted on **Vercel**, where pushing any changes to the `main` branch will automatically deploy.
 
-**[https://vercel.com/sachinwarrier22-niituniversis-projects/v0-sanjana-portfolio-website](https://vercel.com/sachinwarrier22-niituniversis-projects/v0-sanjana-portfolio-website)**
+## Contributing
 
-## Build your app
+Contributions are welcome! Simply follow these steps:
 
-Continue building your app on:
+1. Fork the repository
 
-**[https://v0.dev/chat/projects/0miOin1rkw3](https://v0.dev/chat/projects/0miOin1rkw3)**
+2. Start a new branch (`git checkout -b feature/YourFeature`)
 
-## How It Works
+3. Save your changes (`git commit -m 'Add your feature'`) 4. Push to the branch (`git push origin feature/YourFeature`) 5. Open a Pull Request. ## License This project is published under the [MIT License](LICENSE). ## Contact Created by **Sanjana**. Feel free to reach out: - GitHub: [SachinWarrier3423](https://github.com/SachinWarrier3423) - Email: sanjana@example.com
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository"# Sanjana-Final-Portfolio-Website" 
