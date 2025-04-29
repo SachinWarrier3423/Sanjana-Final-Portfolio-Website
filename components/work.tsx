@@ -38,7 +38,7 @@ const projects = [
     description:
       "Created engaging social media content and digital marketing materials for VYK NGO to increase awareness and engagement.",
     category: "vyk",
-    image: "/images/VYK 1.png?height=600&width=800",
+    image: "/images/VYK 5.png?height=600&width=800",
     tags: ["Social Media", "Digital Marketing", "NGO"],
   },
   {
@@ -56,7 +56,7 @@ const projects = [
     description:
       "Created an awareness poster for the International Day of Persons with Disabilities on December 3rd, featuring inclusive illustrations.",
     category: "health-clinic",
-    image: "/images/health-1.jpeg",
+    image: "/images/My health 1.jpg?height=600&width=800",
     tags: ["Healthcare", "Awareness Campaign", "Inclusive Design"],
   },
   {
@@ -65,7 +65,7 @@ const projects = [
     description:
       "Designed a promotional graphic for osteopathy services at My Health Clinic in Neemrana, highlighting available treatments.",
     category: "health-clinic",
-    image: "/images/health-2.jpeg",
+    image: "/images/My health 2.jpg?height=600&width=800",
     tags: ["Medical Services", "Promotional Design", "Healthcare Marketing"],
   },
   {
@@ -74,7 +74,7 @@ const projects = [
     description:
       "Created a World AIDS Day awareness graphic for December 1st, using the iconic red ribbon symbol on a vibrant background.",
     category: "health-clinic",
-    image: "/images/health-3.jpeg",
+    image: "/images/My health 3.jpg?height=600&width=800",
     tags: ["Health Awareness", "Campaign Design", "Public Health"],
   },
   {
@@ -83,7 +83,7 @@ const projects = [
     description:
       "Designed an informative graphic for World Diabetes Day on November 14th, featuring a glucose meter illustration.",
     category: "health-clinic",
-    image: "/images/health-4.jpeg",
+    image: "/images/My health 4.jpg?height=600&width=800",
     tags: ["Health Education", "Awareness Campaign", "Medical Design"],
   },
   {
@@ -92,7 +92,7 @@ const projects = [
     description:
       "Created a mental wellness graphic encouraging self-care practices like meditation, journaling, and taking walks.",
     category: "health-clinic",
-    image: "/images/health-5.jpeg",
+    image: "/images/My health 5.jpg?height=600&width=800",
     tags: ["Mental Health", "Self-Care", "Wellness Tips"],
   },
   {
@@ -101,7 +101,7 @@ const projects = [
     description:
       "Designed an infographic highlighting essential daily wellness practices to boost immunity and maintain overall health.",
     category: "health-clinic",
-    image: "/images/health-6.jpeg",
+    image: "/images/My health 6.jpg?height=600&width=800",
     tags: ["Wellness", "Health Education", "Lifestyle Tips"],
   },
   {
@@ -110,7 +110,7 @@ const projects = [
     description:
       "Designed a mobile app notification for My Health Wellness app, encouraging users to stay hydrated throughout the day.",
     category: "health-clinic",
-    image: "/images/health-7.jpeg",
+    image: "/images/My health 7.jpg?height=600&width=800",
     tags: ["App Design", "User Experience", "Health Tech"],
   },
   {
@@ -119,7 +119,7 @@ const projects = [
     description:
       "Created a promotional graphic for My Health Wellness clinic highlighting 24-hour services, professional doctors, and consultation options.",
     category: "health-clinic",
-    image: "/images/health-8.jpeg",
+    image: "/images/My health 8.jpg?height=600&width=800",
     tags: ["Healthcare Marketing", "Clinic Promotion", "Service Advertisement"],
   },
   {
@@ -164,7 +164,7 @@ const projects = [
     description:
       "Led social media strategy and content creation as Social Media Director for Hult, increasing engagement and reach.",
     category: "hult",
-    image: "/images/Hult 1-images-0.jpgheight=600&width=800",
+    image: "/images/Hult 2_page-0002.jpg.jpgheight=600&width=800",
     tags: ["Social Media Direction", "Strategy", "Content Creation"],
   },
   {
