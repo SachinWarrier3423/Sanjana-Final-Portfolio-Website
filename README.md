@@ -1,6 +1,7 @@
 # Sanjana Portfolio Website
 
-![Portfolio Screenshot](public/preview.png)
+![image](https://github.com/user-attachments/assets/2a65a844-e06e-4f23-be31-ed824ede3bbc)
+
 
 ## Table of Contents
 
