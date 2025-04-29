@@ -164,7 +164,7 @@ const projects = [
     description:
       "Led social media strategy and content creation as Social Media Director for Hult, increasing engagement and reach.",
     category: "hult",
-    image: "/images/Hult 2_page-0002.jpg.jpgheight=600&width=800",
+    image: "/images/Hult 2_page-0002.jpg?height=600&width=800",
     tags: ["Social Media Direction", "Strategy", "Content Creation"],
   },
   {
