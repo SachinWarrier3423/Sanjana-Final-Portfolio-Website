@@ -137,7 +137,7 @@ const projects = [
     description:
       "Designed user interface elements for the Under 25 mobile application, focusing on user experience and visual appeal.",
     category: "under25",
-    image: "\images\Under25app 1.png?height=600&width=800",
+    image: "/images/Under25app 1.png?height=600&width=800",
     tags: ["UI Design", "Mobile App", "User Experience"],
   },
   {
